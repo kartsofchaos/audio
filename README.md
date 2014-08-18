@@ -11,3 +11,4 @@ To facilitate the work for the person who will be adding the audio into Unity, t
 - `effects` - Contains only **finished** sound effects.
 - `music` - Contains only **finished** music.
 - `personal/*` - Everyone has their own personal folder to store work-related data.
+- `voices` - Contains only **finished** voices.
